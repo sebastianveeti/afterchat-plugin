@@ -1,0 +1,17 @@
+{
+  "name": "afterchat",
+  "owner": {
+    "name": "Afterchat",
+    "email": "hello@afterchat.chat"
+  },
+  "metadata": {
+    "description": "The Afterchat plugin for Claude: your support inbox, knowledge vault and customer requests."
+  },
+  "plugins": [
+    {
+      "name": "afterchat",
+      "source": "./",
+      "description": "Work your Afterchat support inbox and knowledge vault from Claude: answer customers from the code, keep every answer, and build what customers ask for."
+    }
+  ]
+}

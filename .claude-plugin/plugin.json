@@ -1,0 +1,20 @@
+{
+  "name": "afterchat",
+  "version": "0.1.0",
+  "description": "Work your Afterchat support inbox and knowledge vault from Claude: answer customers from the code, keep every answer, and build what customers ask for.",
+  "author": {
+    "name": "Afterchat",
+    "url": "https://afterchat.chat"
+  },
+  "homepage": "https://afterchat.chat/claude-code",
+  "repository": "https://github.com/sebastianveeti/afterchat-plugin",
+  "license": "MIT",
+  "keywords": [
+    "customer support",
+    "support inbox",
+    "knowledge base",
+    "mcp",
+    "feature requests"
+  ],
+  "privacyPolicyUrl": "https://afterchat.chat/privacy"
+}

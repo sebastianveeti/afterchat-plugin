@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "afterchat": {
+      "type": "http",
+      "url": "https://afterchat.chat/mcp"
+    }
+  }
+}
