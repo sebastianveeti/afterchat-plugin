@@ -6,15 +6,18 @@
     "name": "Afterchat",
     "url": "https://afterchat.chat"
   },
-  "homepage": "https://afterchat.chat/claude-code",
+  "homepage": "https://afterchat.chat",
+  "documentationUrl": "https://afterchat.chat/customer-support-mcp",
+  "supportUrl": "mailto:hello@afterchat.chat",
   "repository": "https://github.com/sebastianveeti/afterchat-plugin",
   "license": "MIT",
+  "privacyPolicyUrl": "https://afterchat.chat/privacy",
+  "termsOfServiceUrl": "https://afterchat.chat/terms",
   "keywords": [
     "customer support",
     "support inbox",
     "knowledge base",
     "mcp",
     "feature requests"
-  ],
-  "privacyPolicyUrl": "https://afterchat.chat/privacy"
+  ]
 }
