@@ -8,7 +8,7 @@
   },
   "homepage": "https://afterchat.chat",
   "documentationUrl": "https://afterchat.chat/customer-support-mcp",
-  "supportUrl": "mailto:hello@afterchat.chat",
+  "supportUrl": "https://github.com/sebastianveeti/afterchat-plugin/issues",
   "repository": "https://github.com/sebastianveeti/afterchat-plugin",
   "license": "MIT",
   "privacyPolicyUrl": "https://afterchat.chat/privacy",
